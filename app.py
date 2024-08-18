@@ -2,12 +2,11 @@ import streamlit as st
 import numpy as np
 import pickle
 import pandas as pd
-
-# Load model
-with open('random_forest_model.pkl', 'rb') as file:
-    model = pickle.load(file)
     
 def run():
+    # Load model
+    with open('random_forest_model.pkl', 'rb') as file:
+        model = pickle.load(file)
     # App Title
     st.title('Laptop Price Prediction')
 

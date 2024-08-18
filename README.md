@@ -17,3 +17,4 @@
 
 ## Results
 * **Best Model:** Based on evaluation, the RMSE model performed best with an RMSE of 162
+* **Application:** The trained model is deployed on the following [link](https://lepi-price-predictor.streamlit.app/ "Title" target="_blank")

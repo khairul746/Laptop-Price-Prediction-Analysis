@@ -6,7 +6,7 @@
 5. **Model Evaluation:** Models are evaluated using metrics Root Mean Squared Error (RMSE) and R-squared.
 6. **Deployment:** The best performing model is selected and deployed for use in an application or API.
 
-## Technologies Used
+## Libraries Used
 * **Python:** Primary programming language.
 * **Jupyter Notebook:** Environment for data exploration and model development.
 * **Pandas:** For data manipulation.
